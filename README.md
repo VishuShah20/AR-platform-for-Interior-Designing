@@ -23,7 +23,6 @@ The platform is intended for interior designers, homeowners, and anyone interest
 - TensorFlow 2.x
 - OpenCV
 - PixelLib
-- Other dependencies listed in `requirements.txt`
 
 ## How it Works
 
